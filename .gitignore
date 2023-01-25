@@ -13,3 +13,19 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# IDEA
+.idea
+
+# Logs directory
+logs
+
+# Static directory
+static
+
+# go tests files
+c
+c.out
+
+# dev files
+index.html
